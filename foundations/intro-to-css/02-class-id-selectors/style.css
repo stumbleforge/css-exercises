@@ -5,6 +5,10 @@
   font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
+.odd.three {
+  font-size: 24px;
+}
+
 #two {
   color: #4b4bff;
   font-size: 36px;
