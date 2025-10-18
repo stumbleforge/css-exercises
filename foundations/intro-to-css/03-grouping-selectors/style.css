@@ -1,7 +1,10 @@
 /* Add CSS Styling */
 
 .yes-click {
+  background-color: #171717ff;
+  color: #efefef;
 }
 
 .no-click {
+  background-color: #ffff7bff;
 }
