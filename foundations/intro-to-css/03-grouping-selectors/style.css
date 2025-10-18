@@ -1,5 +1,10 @@
 /* Add CSS Styling */
 
+button {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
 .yes-click {
   background-color: #171717ff;
   color: #efefef;
