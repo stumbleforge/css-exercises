@@ -7,7 +7,14 @@
   text-align: center;
 } */
 
-div p {
+/* div p {
+  background-color: #ffff7bff;
+  color: #ff6d74;
+  font-size: 20px;
+  text-align: center;
+} */
+
+.container p {
   background-color: #ffff7bff;
   color: #ff6d74;
   font-size: 20px;
